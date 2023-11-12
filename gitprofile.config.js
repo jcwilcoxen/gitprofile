@@ -34,14 +34,14 @@ const config = {
       to: 'Present',
     },
   ],
-  / certifications: [
+  certifications: [
     {
       name: 'Prepare for ISC2 CSSLP',
       body: '',
       year: 'November 2023',
       link: 'https://www.linkedin.com/in/justinwilcoxen/'
     },
-  ], /
+  ], 
   education: [
     {
       institution: 'East Carolina University',
