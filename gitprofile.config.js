@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'Justin Wilcoxen',
+    linkedin: 'justinwilcoxen',
     email: 'justinwilcoxennc@gmail.com',
   },
   resume: {
@@ -34,14 +34,14 @@ const config = {
       to: 'Present',
     },
   ],
-  /* certifications: [
+  / certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Prepare for ISC2 CSSLP',
+      body: '',
+      year: 'November 2023',
+      link: 'https://www.linkedin.com/in/justinwilcoxen/'
     },
-  ], */
+  ], /
   education: [
     {
       institution: 'East Carolina University',
