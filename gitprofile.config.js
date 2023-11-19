@@ -70,6 +70,18 @@ const config = {
         'Pitch video describing personal qualifications and experience. Click here to access video. ',
       link: 'https://ecu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eef93ac4-6b79-4f36-a854-b0bf0105ef27',
     },
+    {
+      title: 'SA&D Project Pitch',
+      description:
+        'Pitch video discussing key takeaways of SA&D class project. Click here to access video. ',
+      link: 
+        },
+        {
+      title: 'Elevator Pitch',
+      description:
+        'Pitch video describing personal qualifications and experience. Click here to access video. ',
+      link: 'https://ecu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eef93ac4-6b79-4f36-a854-b0bf0105ef27',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
