@@ -65,11 +65,10 @@ const config = {
         'My name is Justin Wilcoxen. I am passionate about creating solutions and solving people’s problems through software development. I am interested in working with new technology and want to solve problems through these technologies to better an organization as well as its customers.',
     },
     {
-      title: 'Project Name',
+      title: 'Elevator Pitch',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Pitch video describing personal qualifications and experience. ',
+      link: 'https://ecu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eef93ac4-6b79-4f36-a854-b0bf0105ef27',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
