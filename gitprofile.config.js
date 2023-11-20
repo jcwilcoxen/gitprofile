@@ -45,13 +45,13 @@ const config = {
   education: [
     {
       institution: 'East Carolina University',
-      degree: 'Bachelors of Science in Business Admiistration (MIS)',
+      degree: 'Bachelors of Science in Business Administration (MIS)',
       from: '2019',
       to: '2022',
     },
     {
       institution: 'East Carolina University',
-      degree: 'Masters of Business Administration',
+      degree: 'Masters in Business Administration',
       from: '2022',
       to: '2024',
     },
