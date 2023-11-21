@@ -76,6 +76,12 @@ const config = {
         'Pitch video discussing key takeaways of SA&D class project. Click here to access video. ',
       link:'https://ecu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=951b431c-d470-47cc-8088-b0bf0117ed78',
         },
+    {
+      title: 'SA&D Project Jury Video',
+      description:
+        'Video depicting 15 minute team presentation discussing SA&D Project details with IBX Tactical.',
+      link:'https://ecu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8bddcaf9-1206-4e4d-869f-b0c101353805',
+        },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
