@@ -41,6 +41,11 @@ const config = {
       year: 'November 2023',
       link: 'https://www.linkedin.com/in/justinwilcoxen/'
     },
+    {
+      name: 'Truist Emerging Leaders Certification (ECU COB)',
+      body: 'Completed through ECU College of Business leadership program.',
+      year: 'December 2022',
+    },
   ], 
   education: [
     {
