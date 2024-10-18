@@ -27,7 +27,7 @@ const config = {
     'MSSQL',
     'Microsoft SQL Server',
     'HTML',
-    'CSS'.
+    'CSS',
     'Tableau'
   
   ],
