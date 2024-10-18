@@ -21,10 +21,15 @@ const config = {
   skills: [
     'Microsoft Excel',
     'Microsoft Access',
+    'Microsoft Word',
+    'Microsoft Powerpoint',
     'C#',
-    'MySQL',
-    'Microsoft Access',
+    'MSSQL',
+    'Microsoft SQL Server',
     'HTML',
+    'CSS'.
+    'Tableau'
+  
   ],
   experiences: [
     {
@@ -50,16 +55,21 @@ const config = {
   education: [
     {
       institution: 'East Carolina University',
-      degree: 'Bachelors of Science in Business Administration (MIS)',
+      degree: 'Bachelor of Science in Business Administration (MIS)',
       from: '2019',
       to: '2022',
     },
     {
       institution: 'East Carolina University',
-      degree: 'Masters in Business Administration',
+      degree: 'Master of Business Administration',
       from: '2022',
       to: '2024',
     },
+    {
+      institution: 'East Carolina University',
+      degree: 'Graduate Certificate in Management Information Systems',
+      from: '2023',
+      to: '2024'
   ],
 
   // To hide the `My Projects` section, keep it empty.
